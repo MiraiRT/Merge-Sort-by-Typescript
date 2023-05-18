@@ -2,7 +2,8 @@
 
 **Install package**
 - Run Command in cmd
->npm install --save-dev mocha@8.4.0 chai@4.3.4 ts-node@10.4.0 typescript@4.4.4
+>npm install mocha chai ts-node typescript
 
 **Test MergeSort Function**
->run npm test
+run command to check test result
+>npm test
